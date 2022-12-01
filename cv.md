@@ -14,3 +14,28 @@ besides there’s a huge amount of free high quality resources for self-educatio
 
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 ===
+## Skills and Proficiency:
+- HTML5, CSS3
+- JavaScript Basics
+- SQL Basics
+- Git, GitHub
+- VS Code
+===
+## Code example:
+**Highest and Lowest Kata from CODEWARS:** In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
+```
+function highAndLow(numbers){
+  numbers = numbers.split(' ');
+  
+  return Math.max(...numbers) + ' ' + Math.min(...numbers);
+}
+```
+===
+## Courses:
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+===
+## Languages:
+- English - Intermediate/Upper-intermediate
+- Russian - Native
+- Ukranian - Native
+- Turkish - Elementary
